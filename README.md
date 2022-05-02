@@ -2,7 +2,7 @@
 - 👀 I’m interested in Billiards
 - 🌱 I’m currently learning 3C Carom
 - 💞️ I’m looking to collaborate on Billiards Prize Awards.
-- 📫 How to reach me stb.jang@gmail.com
+- 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
 
 <!---
 todd-jang/todd-jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
