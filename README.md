@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @todd-jang
-- 👀 I’m interested in Billiards
-- 🌱 I’m currently learning 3C Carom
-- 💞️ I’m looking to collaborate on Billiards Prize Awards.
+- 👀 I’m interested in Data Science like ML/DL and RL
+- 🌱 I’m currently learning CS50 Series
+- 💞️ I’m looking forward collaborate on Pair Programming.
 - 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
 
 <!---
