@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @todd-jang
-- 👀 I’m interested in Data Science like ML/DL and RL
-- 🌱 I’m currently learning CS50 Series
-- 💞️ I’m looking forward collaborate on Pair Programming.
-- 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
+- 👀 I’m interested in Data Science like Statistical math, ML/DL and RL
+- 🌱 I’ve learned Harvard CS50 x,Python,Ai,Web programming with JavaScript
+- 💞️ I’m looking forward collaborate in the field of Full Stack Eng'ring with Pair Programming.
+- 📫 H o w   t o   r e a c h   m e   -------->     gihoonjang4@gmail.com
 
 <!---
 todd-jang/todd-jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
