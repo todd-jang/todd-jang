@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @todd-jang
 - 👀 I’m interested in Data Science like Statistical math, ML/DL and RL
-- 🌱 I’ve learned in 2022/23 edX CS50 x,Python,Ai,Web programming with Python & JavaScript &
-- & will learn in 2023/2024 Java SpringBoot, React native , Game ,SQL & Cybersecurity && R for Data Science addtionally.
+- 🌱 I’ve learned in 2022/23 edX CS50x Scratch,Python; Ai,Web programming with Python and JavaScript
+  & will learn in 2023/2024 Java SpringBoot; React native,Game,SQL and Cybersecurity
+  && 2024 R for Data Science addtionally and make a FullStackSoftwareEngineer.
 - 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI Pair Programming with Python Django and JS, React plus any platform building Java Spring.
 - 📫 H o w   t o   r e a c h   m e   -------->     gihoonjang4@gmail.com
 
