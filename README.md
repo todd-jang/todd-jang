@@ -4,7 +4,7 @@
   & will learn in 2023/2024 Java ; Mobiles,Game,SQL and Cybersecurity
   && 2024 R for Statistical Computing and 3D Graphics for GPU controll addtionally and make a FullStackSoftwareEngineer.
 - 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI Pair Programming with Python Django and JS, React plus any web-platform building with Java Spring boot.
-- 📫 H o w   t o   r e a c h   m e   -------->     gihoonjang4@gmail.com
+- 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
 
 <!---
 todd-jang/todd-jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
