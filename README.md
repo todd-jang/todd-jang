@@ -2,10 +2,12 @@
 - 👀 I’m interested in Data Science like Statistical math, ML/DL and RL
 - 🌱 I’ve learned in 2022/23 edX CS50x Scratch,Python; Ai,Web programming with Python and JavaScript
   & will learn in 2023/2024 Java ; Mobiles,Game,SQL and Cybersecurity
-  && 2024 R for Statistical Computing and 3D Graphics for GPU controll addtionally and make a FullStackSoftwareEngineer.
+  && 2024 R for Statistical Computing and C++ 3D Graphics for GPU controll addtionally and make a BackendSoftwareEngineer.
 
   && 2024/2025 began | praticed || 90% finishing Guided Project 'Developing Generative AI Applications with Python'.
-- 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI Pair Programming with Python Django and JS, React plus any web-platform building with Java Spring boot.
+- 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI Pair Programming with Python Django and JS, React 
+plus any web-platform like EBS education in Korea building with Java Spring boot.
+OR Building web Generative AI with Python Flask.
 - 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
 
 <!---
