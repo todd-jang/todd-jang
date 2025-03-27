@@ -4,7 +4,8 @@
   & used to learn in 2023/2024 Java ; Mobiles,Game,SQL for Databases and Cybersecurity
   && 2024 R for Statistical Computing and C++ 3D Graphics for GPU controll addtionally and make a BackendSoftwareEngineer.
 
-  && 2024/2025 began | praticed || 90% finishing Guided Project 'Developing Generative AI Applications with Python'.
+  && 2024/2025 began | praticed || 70% finishing Guided Project 'Developing Generative AI Applications with Python'
+after 90% accomplished "Python for AI & Development Project" + 'Django Application Development with SQL and Databases'^^
 - 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI Pair Programming with Python Django and JS, React 
 plus any web-platform like EBS education in Korea building with Java Spring boot.
 OR Building web Generative AI with Python Flask.So now am doing work with Java web developers in the field of Finances data processing more than 300 concurrences.
