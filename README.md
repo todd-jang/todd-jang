@@ -6,9 +6,11 @@
 
   && 2024/2025 began | praticed || 70% finishing Guided Project 'Developing Generative AI Applications with Python'
 after 90% accomplished "Python for AI & Development Project" + 'Django Application Development with SQL and Databases'^^
-- 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI Pair Programming with Python Django and JS, React 
-plus any web-platform like EBS education in Korea building with Java Spring boot.
-OR Building web Generative AI with Python Flask.So now am doing work with Java web developers in the field of Finances data processing more than 300 concurrences.
+- 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI foundation model developing Pair Programming with Flask and ReactJS 
+NodeJS or the like 
+plus any web-platform like EBS education Co. in Korea building with Java Spring boot. asp.NET core or Flask frmework!
+OR Building Apps Generating AI in Python. So now am doing work with AI API developers in the field of Ultra Low Latent Finance data
+processing more than 300 concurrences.
 - 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
 
 <!---
