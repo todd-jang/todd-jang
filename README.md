@@ -8,9 +8,9 @@
 after 90% accomplished "Python for AI & Development Project" + 'Django Application Development with SQL and Databases'^^
 - 💞️ I’m looking forward collaborate in the field of Data Eng'ring of AI foundation model developing Pair Programming with Flask and ReactJS 
 NodeJS or the like 
-plus any web-platform like EBS education Co. in Korea building with Java Spring boot. asp.NET core or Flask frmework!
+plus any web-platform like EBS education Co. in Korea building with Java Spring boot. asp.NET core or Flask framework!
 OR Building Apps Generating AI in Python. So now am doing work with AI API developers in the field of Ultra Low Latent Finance data
-processing more than 300 concurrences.
+processing more than 300 concurrences in accordance with KCFT data compliance.
 - 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
 
 <!---
