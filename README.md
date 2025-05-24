@@ -11,9 +11,7 @@ NodeJS or even django fullstack
 plus certain web-platform like EBS education broadcasting Co. in Korea building with Java Spring boot. asp.NET core or Keras framework!
 OR Building mobile Apps Generative AI. 
 
-Now start to work with LLM API in the field of Ultra Low Latent Finance data
-processing.
-- 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com
+- 📫 H o w   t o   r e a c h   m e   -------->     stb.jang@gmail.com ; janggi3_ai@
 
 <!---
 todd-jang/todd-jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
